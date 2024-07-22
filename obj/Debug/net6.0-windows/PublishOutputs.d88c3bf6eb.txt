@@ -1,0 +1,5 @@
+F:\ConProgs\Vic2GUI\VicIP\bin\Debug\net6.0-windows\publish\VicIP.exe
+F:\ConProgs\Vic2GUI\VicIP\bin\Debug\net6.0-windows\publish\VicIP.dll
+F:\ConProgs\Vic2GUI\VicIP\bin\Debug\net6.0-windows\publish\VicIP.deps.json
+F:\ConProgs\Vic2GUI\VicIP\bin\Debug\net6.0-windows\publish\VicIP.runtimeconfig.json
+F:\ConProgs\Vic2GUI\VicIP\bin\Debug\net6.0-windows\publish\VicIP.pdb
